@@ -1,5 +1,6 @@
 {
-  "name": "luke-haskell-porfolio",
+  "name": "luke-haskell-react-portfolio",
+  "homepage": "https://BarkMulcher.github.io/Luke-Haskell-Portfolio",
   "version": "1.0.0",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
@@ -7,6 +8,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b main -d build",
     "eject": "react-scripts eject"
   },
   "keywords": [],
@@ -20,6 +23,7 @@
     "@types/react-dom": "^18.0.9",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
+    "react-router-dom": "^6.4.3",
     "react-scripts": "^5.0.1",
     "web-vitals": "^3.1.0"
   },
@@ -34,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
