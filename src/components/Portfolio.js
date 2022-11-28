@@ -14,7 +14,7 @@ export default function Portfolio() {
                                 <header class="card-header">
                                     <div class="has-text-centered">
                                         <figure class="image is-128x128">
-                                            <img class="is-rounded" src='' />
+                                            <img class="is-rounded" src={require('../images/pj2homepageScreenshot.jpg')}  />
                                         </figure>
                                     </div>
                                 </header>
