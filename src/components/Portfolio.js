@@ -20,7 +20,7 @@ export default function Portfolio() {
                         <div className='card-content white-text'>
                             <p>A free online bequeathment app.</p>
                         </div>
-                        <div class="card-action">
+                        <div className="card-action">
                             <a href="https://serene-shelf-90086.herokuapp.com">Deployed Link</a>
                         </div>
                     </div>
