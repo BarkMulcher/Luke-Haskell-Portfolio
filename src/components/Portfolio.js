@@ -1,3 +1,4 @@
+import Cowboy from '../images/cowboy.jpg';
 
 export default function Portfolio() {
     return (
@@ -6,77 +7,60 @@ export default function Portfolio() {
             <h1 className="page-header-text">
                 My Work
             </h1>
-            <section class="section cards has-background-info">
-                <div class="container">
+            <section class="section cards is-transparent">
                     <div class="columns is-mobile is-multiline is-centered">
                         <div class="card m-1 card-equal-height has-background-grey-light">
                             <div class="column is-narrow">
                                 <header class="card-header">
                                     <div class="has-text-centered">
                                         <figure class="image is-128x128">
-                                            <img class="is-rounded" src={require('../images/pj2homepageScreenshot.jpg')}  />
+                                            <img src={require('../images/pj2homepageScreenshot.jpg')}  />
                                         </figure>
                                     </div>
                                 </header>
                                 <h5 class="title is-4 has-text-centered">
-                                    Jared
+                                    Index Mori
                                 </h5>
-                                <p class="pl-6 subtitle is-5 has-text-centered">
-                                    Manager
-                                </p>
+                                <a class="pl-6 subtitle is-5 has-text-centered" href='https://serene-shelf-90086.herokuapp.com' target="_blank"
+                    rel="noreferrer noopener">
+                                    Deployed URL
+                                </a>
                                 <div class="card-content">
                                     <div class="box">
                                         <p>
-                                            ID: 627
-                                        </p>
-                                    </div>
-                                    <div class="box">
-                                        <p>
-                                            Email:
-                                        </p>
-                                    </div>
-                                    <div class="box">
-                                        <p>
-                                            Office #: 6
+                                            A free online bequeathment site.
                                         </p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="card m-1 card-equal-height has-background-grey-light">
-                            <div class="column is-narrow">
+                            <div class="column">
                                 <header class="card-header">
                                     <div class="has-text-centered">
                                         <figure class="image is-128x128">
-                                            <img class="is-rounded" src={Cowboy} />
+                                            <img src={require('../images/catapi.png')} />
                                         </figure>
                                     </div>
                                 </header>
                                 <h5 class="title is-4 has-text-centered">
-                                    Jotham
+                                    Cat Facts API
                                 </h5>
-                                <p class="pl-6 subtitle is-5 has-text-centered">
-
-                                </p>
+                                <a class="pl-6 subtitle is-5 has-text-centered" href="https://heatleyj7.github.io/cat-api-project/" target="_blank"
+                    rel="noreferrer noopener">
+                                    Deployed URL
+                                </a>
                                 <div class="card-content">
-                                    <div class="box">
-                                        <p>
-                                        </p>
-                                    </div>
-                                    <div class="box">
-                                        <p>
-                                        </p>
-                                    </div>
-                                    <div class="box">
-                                        <p>
-
+                                    <div class="box is-flex-wrap-wrap">
+                                        <p className='card-info'>
+                                            A site implementing two APIs as part of a student group project
                                         </p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="card m-1 card-equal-height has-background-grey-light">
-                            <div class="column is-narrow">
+                            <div class="column">
                                 <header class="card-header">
                                     <div class="has-text-centered">
                                         <figure class="image is-128x128">
@@ -109,7 +93,7 @@ export default function Portfolio() {
 
                         </div>
                         <div class="card m-1 card-equal-height has-background-grey-light">
-                            <div class="column is-narrow">
+                            <div class="column">
                                 <header class="card-header">
                                     <div class="has-text-centered">
                                         <figure class="image is-128x128">
@@ -171,7 +155,6 @@ export default function Portfolio() {
                             </div>
                         </div>
                     </div>
-                </div>
             </section>
         </div>
 
