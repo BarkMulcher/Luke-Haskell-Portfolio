@@ -1,4 +1,4 @@
-import image from '../images/sunset.png';
+
 
 export default function Home() {
     return (
