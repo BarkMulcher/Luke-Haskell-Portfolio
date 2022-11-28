@@ -1,7 +1,9 @@
 export default function Contact() {
     return (
-        <h1>
+        <div>
+        <h1 className="page-header-text">
             Contact Me
         </h1>
+        </div>
     )
 }
