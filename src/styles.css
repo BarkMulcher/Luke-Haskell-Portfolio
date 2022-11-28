@@ -1,4 +1,4 @@
-@import 'bulma/css/bulma.css';
+
 
 * {
   font-family: Arial, Helvetica, sans-serif;
@@ -12,10 +12,6 @@ body {
   background-repeat: no-repeat;
   height: 100vh;
   width: 100vw;
-}
-
-.card-info {
- 
 }
 
 .image img {
@@ -84,3 +80,6 @@ body {
   padding-top: 100px;
 }
 
+.project-card {
+  border-radius: 0px;
+}
