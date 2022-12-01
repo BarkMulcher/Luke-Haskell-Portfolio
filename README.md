@@ -8,7 +8,6 @@
 
   ## TABLE OF CONTENTS
   * [Motivation](#motivation)
-  * [Inspiration](#inspiration)
   * [Installation](#installation)
   * [Demonstration](#demonstration)
   * [Contributing](#contributing)
@@ -21,9 +20,6 @@
   
   ## Motivation
   I was motivated to create this site to display my work, and to gain experience with React.
-
-  ## Inspiration
-  Problematic Problems
 
   ## Installation
   N/A
