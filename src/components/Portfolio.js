@@ -127,6 +127,23 @@ export default function Portfolio() {
                         </div>
                     </div>
                 </div>
+                <div className="col s12 m7 offset-m2 l5">
+                    <div className='project-card grey card hoverable'>
+                        <div className='card-title white-text'>
+                            Sheltr
+                        </div>
+                        <a className='card-image' href='https://sheltr.tech' target="_blank"
+                            rel="noreferrer noopener">
+                            <img className='responsive-img' src={require('../images/TeamGen.jpg')} />
+                        </a>
+                        <div className='card-content white-text'>
+                            <p>This is a MERN stack app developed for use by an animal shelter, and potential adopters to browse for animals.</p>
+                        </div>
+                        <div className="card-action">
+                            <a href="https://github.com/derekson333/sheltr">GitHub Repository</a>
+                        </div>
+                    </div>
+                </div>
 
 
             </section>
