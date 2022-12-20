@@ -134,7 +134,7 @@ export default function Portfolio() {
                         </div>
                         <a className='card-image' href='https://sheltr.tech' target="_blank"
                             rel="noreferrer noopener">
-                            <img className='responsive-img' src={require('../images/TeamGen.jpg')} />
+                            <img className='responsive-img' src={require('../images/sheltr.png')} />
                         </a>
                         <div className='card-content white-text'>
                             <p>This is a MERN stack app developed for use by an animal shelter, and potential adopters to browse for animals.</p>
