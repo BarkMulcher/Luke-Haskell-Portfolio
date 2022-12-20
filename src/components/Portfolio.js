@@ -21,7 +21,8 @@ export default function Portfolio() {
                             <p>This is a MERN stack app developed for use by an animal shelter, and potential adopters to browse for animals.</p>
                         </div>
                         <div className="card-action">
-                            <a href="https://github.com/derekson333/sheltr">GitHub Repository</a>
+                            <a href="https://github.com/derekson333/sheltr">GITHUB REPOSITORY</a>
+                            <a href='https://shelter.tech'>DEPLOYED LINK</a>
                         </div>
                     </div>
                 </div>
@@ -45,23 +46,6 @@ export default function Portfolio() {
                 <div className="col s12 m7 offset-m2 l5">
                     <div className='project-card grey card hoverable'>
                         <div className='card-title white-text'>
-                            Cat Facts App
-                        </div>
-                        <a className='card-image' href='https://barkmulcher.github.io/Cat-Facts-API/' target="_blank"
-                            rel="noreferrer noopener">
-                            <img className='responsive-img' src={require('../images/catapi.png')} />
-                        </a>
-                        <div className='card-content white-text'>
-                            <p>A simple and lighthearted API project to retreive random cat pictures and cat facts.</p>
-                        </div>
-                        <div className="card-action">
-                            <a href="https://barkmulcher.github.io/Cat-Facts-API/">Deployed Link</a>
-                        </div>
-                    </div>
-                </div>
-                <div className="col s12 m7 offset-m2 l5 offset-l1">
-                    <div className='project-card grey card hoverable'>
-                        <div className='card-title white-text'>
                             Weather Dashboard App
                         </div>
                         <a className='card-image' href='https://github.com/BarkMulcher/Weather-Dashboard' target="_blank"
@@ -73,6 +57,23 @@ export default function Portfolio() {
                         </div>
                         <div className="card-action">
                             <a href="https://github.com/BarkMulcher/Weather-Dashboard">Deployed Link</a>
+                        </div>
+                    </div>
+                </div>
+                <div className="col s12 m7 offset-m2 l5 offset-l1">
+                    <div className='project-card grey card hoverable'>
+                        <div className='card-title white-text'>
+                            Cat Facts App
+                        </div>
+                        <a className='card-image' href='https://barkmulcher.github.io/Cat-Facts-API/' target="_blank"
+                            rel="noreferrer noopener">
+                            <img className='responsive-img' src={require('../images/catapi.png')} />
+                        </a>
+                        <div className='card-content white-text'>
+                            <p>A simple and lighthearted API project to retreive random cat pictures and cat facts.</p>
+                        </div>
+                        <div className="card-action">
+                            <a href="https://barkmulcher.github.io/Cat-Facts-API/">Deployed Link</a>
                         </div>
                     </div>
                 </div>
@@ -93,7 +94,7 @@ export default function Portfolio() {
                         </div>
                     </div>
                 </div>
-                <div className="col s12 m7 offset-m2 l5">
+                <div className="col s12 m7 offset-m2 l5 offset-l1">
                     <div className='project-card grey card hoverable'>
                         <div className='card-title white-text'>
                             Note-Taker App
@@ -110,7 +111,7 @@ export default function Portfolio() {
                         </div>
                     </div>
                 </div>
-                <div className="col s12 m7 offset-m2 l5 offset-l1">
+                <div className="col s12 m7 offset-m2 l5">
                     <div className='project-card grey card hoverable'>
                         <div className='card-title white-text'>
                             Tech Blog App
