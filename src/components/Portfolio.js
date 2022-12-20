@@ -127,7 +127,7 @@ export default function Portfolio() {
                         </div>
                     </div>
                 </div>
-                <div className="col s12 m7 offset-m2 l5">
+                <div className="col s12 m7 offset-m2 l5 offset-l1">
                     <div className='project-card grey card hoverable'>
                         <div className='card-title white-text'>
                             Sheltr
