@@ -76,7 +76,7 @@ export default function Portfolio() {
                         </div>
                     </div>
                 </div>
-                <div className="col s12 m7 offset-m2 l5">
+                <div className="col s12 m7 offset-m2 l5 offset-l1">
                     <div className='project-card grey card hoverable'>
                         <div className='card-title white-text'>
                             Note-Taker App
@@ -93,7 +93,7 @@ export default function Portfolio() {
                         </div>
                     </div>
                 </div>
-                <div className="col s12 m7 offset-m2 l5 offset-l1">
+                <div className="col s12 m7 offset-m2 l5">
                     <div className='project-card grey card hoverable'>
                         <div className='card-title white-text'>
                             Tech Blog App
@@ -110,7 +110,7 @@ export default function Portfolio() {
                         </div>
                     </div>
                 </div>
-                <div className="col s12 m7 offset-m2 l5">
+                <div className="col s12 m7 offset-m2 l5 offset-l1">
                     <div className='project-card grey card hoverable'>
                         <div className='card-title white-text'>
                             Team Profile Generator
@@ -127,7 +127,7 @@ export default function Portfolio() {
                         </div>
                     </div>
                 </div>
-                <div className="col s12 m7 offset-m2 l5 offset-l1">
+                <div className="col s12 m7 offset-m2 l5">
                     <div className='project-card grey card hoverable'>
                         <div className='card-title white-text'>
                             Sheltr
