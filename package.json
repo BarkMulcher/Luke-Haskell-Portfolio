@@ -1,6 +1,6 @@
 {
   "name": "luke-haskell-react-portfolio",
-  "homepage": "https://BarkMulcher.github.io/PORTFOLIO",
+  "homepage": "https://BarkMulcher.github.io/Luke-Haskell-Portfolio",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -40,7 +40,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0",
+    "gh-pages": "^5.0.0",
     "prettier": "^2.8.0"
   }
 }
