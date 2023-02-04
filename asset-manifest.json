@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Luke-Haskell-Portfolio/static/css/main.39372472.css",
-    "main.js": "/Luke-Haskell-Portfolio/static/js/main.15006548.js",
-    "static/js/496.ef665efe.chunk.js": "/Luke-Haskell-Portfolio/static/js/496.ef665efe.chunk.js",
-    "static/media/sunset.png": "/Luke-Haskell-Portfolio/static/media/sunset.e8ce9d95278f7e08969c.png",
-    "static/media/sheltr.png": "/Luke-Haskell-Portfolio/static/media/sheltr.a37ce75cf1cf0bcaeeac.png",
-    "static/media/indexmori.jpg": "/Luke-Haskell-Portfolio/static/media/indexmori.4b9b1060d7ae9f795a96.jpg",
-    "static/media/catapi.png": "/Luke-Haskell-Portfolio/static/media/catapi.4a2fd7819906af5c7ecf.png",
-    "static/media/captain-luke.jpg": "/Luke-Haskell-Portfolio/static/media/captain-luke.431abe7e584ee7694183.jpg",
-    "static/media/TeamGen.jpg": "/Luke-Haskell-Portfolio/static/media/TeamGen.b84b091a98641f6e5b8f.jpg",
-    "static/media/TechBlog.jpg": "/Luke-Haskell-Portfolio/static/media/TechBlog.58ede3f49e6bcf2f08b8.jpg",
-    "static/media/readmegen.jpg": "/Luke-Haskell-Portfolio/static/media/readmegen.830cb52cf1f7598b11da.jpg",
-    "static/media/wthrdshbrd.png": "/Luke-Haskell-Portfolio/static/media/wthrdshbrd.d8313357e0fe11ed062c.png",
-    "static/media/logo.svg": "/Luke-Haskell-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Luke-Haskell-Portfolio/index.html",
-    "main.39372472.css.map": "/Luke-Haskell-Portfolio/static/css/main.39372472.css.map",
-    "main.15006548.js.map": "/Luke-Haskell-Portfolio/static/js/main.15006548.js.map",
-    "496.ef665efe.chunk.js.map": "/Luke-Haskell-Portfolio/static/js/496.ef665efe.chunk.js.map"
+    "main.css": "/lucashaskell.com/static/css/main.ea7b94d3.css",
+    "main.js": "/lucashaskell.com/static/js/main.f2f432f2.js",
+    "static/js/496.ef665efe.chunk.js": "/lucashaskell.com/static/js/496.ef665efe.chunk.js",
+    "static/media/sunset.png": "/lucashaskell.com/static/media/sunset.e8ce9d95278f7e08969c.png",
+    "static/media/sheltr.png": "/lucashaskell.com/static/media/sheltr.a37ce75cf1cf0bcaeeac.png",
+    "static/media/indexmori.jpg": "/lucashaskell.com/static/media/indexmori.4b9b1060d7ae9f795a96.jpg",
+    "static/media/catapi.png": "/lucashaskell.com/static/media/catapi.4a2fd7819906af5c7ecf.png",
+    "static/media/captain-luke.jpg": "/lucashaskell.com/static/media/captain-luke.431abe7e584ee7694183.jpg",
+    "static/media/TeamGen.jpg": "/lucashaskell.com/static/media/TeamGen.b84b091a98641f6e5b8f.jpg",
+    "static/media/TechBlog.jpg": "/lucashaskell.com/static/media/TechBlog.58ede3f49e6bcf2f08b8.jpg",
+    "static/media/readmegen.jpg": "/lucashaskell.com/static/media/readmegen.830cb52cf1f7598b11da.jpg",
+    "static/media/wthrdshbrd.png": "/lucashaskell.com/static/media/wthrdshbrd.d8313357e0fe11ed062c.png",
+    "static/media/logo.svg": "/lucashaskell.com/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lucashaskell.com/index.html",
+    "main.ea7b94d3.css.map": "/lucashaskell.com/static/css/main.ea7b94d3.css.map",
+    "main.f2f432f2.js.map": "/lucashaskell.com/static/js/main.f2f432f2.js.map",
+    "496.ef665efe.chunk.js.map": "/lucashaskell.com/static/js/496.ef665efe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39372472.css",
-    "static/js/main.15006548.js"
+    "static/css/main.ea7b94d3.css",
+    "static/js/main.f2f432f2.js"
   ]
 }
