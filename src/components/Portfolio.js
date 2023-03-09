@@ -10,7 +10,7 @@ export default function Portfolio() {
             <section className="row">
                 <div className="col s12">
                     <div className="section">
-                        <div className="col s12 m7 offset-m2 l5 offset-l1">
+                        <div className="col s12 m6 l6 offset-s6">
                             <div className='project-card grey card hoverable'>
                                 <div className='card-title white-text'>
                                     Sheltr
@@ -20,7 +20,7 @@ export default function Portfolio() {
                                     <img className='responsive-img' src={require('../images/sheltr.png')} />
                                 </a>
                                 <div className='card-content white-text'>
-                                    <p>This is a MERN stack app developed for use by an animal shelter, and potential adopters to browse for animals.</p>
+                                    <p>This is a MERN stack app developed for use by an animal shelter to reach potential adopters.</p>
                                 </div>
                                 <div className="card-action">
                                     <a href="https://github.com/derekson333/sheltr">GITHUB REPOSITORY</a>
@@ -28,7 +28,7 @@ export default function Portfolio() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col s12 m7 offset-m2 l5">
+                        <div className="col s12 m6 l6 offset-s6">
                             <div className='project-card grey card hoverable'>
                                 <div className='card-title white-text'>
                                     Index Mori
@@ -45,7 +45,7 @@ export default function Portfolio() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col s12 m7 offset-m2 l5">
+                        <div className="col s12 m6 l6">
                             <div className='project-card grey card hoverable'>
                                 <div className='card-title white-text'>
                                     Weather Dashboard App
@@ -62,7 +62,7 @@ export default function Portfolio() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col s12 m7 offset-m2 l5 offset-l1">
+                        <div className="col s12 m6 l6">
                             <div className='project-card grey card hoverable'>
                                 <div className='card-title white-text'>
                                     Cat Facts App
@@ -79,7 +79,7 @@ export default function Portfolio() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col s12 m7 offset-m2 l5">
+                        <div className="col s12 m6 l6">
                             <div className='project-card grey card hoverable'>
                                 <div className='card-title white-text'>
                                     Back-End README.md generator
@@ -96,7 +96,7 @@ export default function Portfolio() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col s12 m7 offset-m2 l5 offset-l1">
+                        <div className="col s12 m6 l6">
                             <div className='project-card grey card hoverable'>
                                 <div className='card-title white-text'>
                                     Note-Taker App
@@ -113,7 +113,7 @@ export default function Portfolio() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col s12 m7 offset-m2 l5">
+                        <div className="col s12 m6 l6">
                             <div className='project-card grey card hoverable'>
                                 <div className='card-title white-text'>
                                     Tech Blog App
@@ -130,7 +130,7 @@ export default function Portfolio() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col s12 m7 offset-m2 l5">
+                        <div className="col s12 m6 l6">
                             <div className='project-card grey card hoverable'>
                                 <div className='card-title white-text'>
                                     Team Profile Generator
