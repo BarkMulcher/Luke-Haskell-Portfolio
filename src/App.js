@@ -5,7 +5,7 @@ import About from './components/About';
 import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
 import Footer from './components/Footer';
-import { BrowserRouter as Router, Route, Routes, Redirect, BrowserRouter } from 'react-router-dom';
+import { BrowserRouter, Router, Route, Routes, Navigate, BrowserRouter } from 'react-router-dom';
 
 function App() {
   return (
@@ -20,7 +20,7 @@ function App() {
           <Route path='/portfolio' element={<Portfolio />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
-          <Redirect from='*' to='/' />
+          <Navigate to='/' replace={true}/>
         </Routes>
       </div>
       <div className='footer'>
