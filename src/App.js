@@ -5,7 +5,7 @@ import About from './components/About';
 import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
 import Footer from './components/Footer';
-import { Route, Routes, Navigate } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
@@ -19,7 +19,6 @@ function App() {
           <Route path='/portfolio' element={<Portfolio />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
-          <Navigate to='/' replace={true}/>
         </Routes>
       </div>
       <div className='footer'>
