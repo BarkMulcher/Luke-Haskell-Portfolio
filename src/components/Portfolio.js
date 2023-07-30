@@ -31,6 +31,24 @@ export default function Portfolio() {
                             <div className="col s12 m6 l6">
                                 <div className='project-card grey card hoverable'>
                                     <div className='card-title white-text'>
+                                        Reelistr
+                                    </div>
+                                    <a className='card-image' href='https://barkmulcher.gitlab.io/module3-project-gamma' target="_blank"
+                                        rel="noreferrer noopener">
+                                        <img className='responsive-img' src={require('../images/judgement-day.jpg')} />
+                                    </a>
+                                    <div className='card-content white-text'>
+                                        <p>A polished movie database React app with a Python back end.</p>
+                                    </div>
+                                    <div className="card-action">
+                                        <a href="https://gitlab.com/barkmulcher/module3-project-gamma">GITHUB REPOSITORY</a>
+                                        <a href='https://barkmulcher.gitlab.io/module-3-project-gamma'>DEPLOYED LINK</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col s12 m6 l6">
+                                <div className='project-card grey card hoverable'>
+                                    <div className='card-title white-text'>
                                         Index Mori
                                     </div>
                                     <a className='card-image' href='https://serene-shelf-90086.herokuapp.com' target="_blank"
@@ -38,7 +56,7 @@ export default function Portfolio() {
                                         <img className='responsive-img' src={require('../images/indexmori.jpg')} />
                                     </a>
                                     <div className='card-content white-text'>
-                                        <p>A free online bequeathment app.</p>
+                                        <p>A spooky, Halloween-themed app for creating a will.</p>
                                     </div>
                                     <div className="card-action">
                                         <a href="https://serene-shelf-90086.herokuapp.com">Deployed Link</a>
