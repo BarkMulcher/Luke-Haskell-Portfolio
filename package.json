@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && shx cp build/index.html build/404.html",
     "test": "react-scripts test",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -42,6 +42,7 @@
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^5.0.0",
-    "prettier": "^2.8.0"
+    "prettier": "^2.8.0",
+    "shx": "^0.3.4"
   }
 }
