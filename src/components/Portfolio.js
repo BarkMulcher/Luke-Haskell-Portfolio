@@ -3,6 +3,71 @@
 export default function Portfolio() {
     return (
 
+//         <div class="container">
+//   <h2>Scrolling Card UI With CSS Grid</h2>
+//   <ul class="cards">
+//     <li class="card">
+//       <div>
+//         <h3 class="card-title">Service 1</h3>
+//         <div class="card-content">
+//           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+//         </div>
+//       </div>
+//       <div class="card-link-wrapper">
+//         <a href="" class="card-link">Learn More</a>
+//       </div>
+//     </li>
+//     <li class="card">
+//       <div>
+//         <h3 class="card-title">Service 2</h3>
+//         <div class="card-content">
+//           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab repudiandae magnam harum natus fuga et repellat in maiores.</p>
+//         </div>
+//       </div>
+//       <div class="card-link-wrapper">
+//         <a href="" class="card-link">Learn More</a>
+//       </div>
+//     </li>
+//     <li class="card">
+//       <div>
+//         <h3 class="card-title">Service 3</h3>
+//         <div class="card-content">
+//           <p>Phasellus ultrices lorem vel bibendum ultricies. In hendrerit nulla a ante dapibus pulvinar eu eget quam.</p>
+//         </div>
+//       </div>
+//       <div class="card-link-wrapper">
+//         <a href="" class="card-link">Learn More</a>
+//       </div>
+//     </li>
+//     <li class="card">
+//       <div>
+//         <h3 class="card-title">Service 3</h3>
+//         <div class="card-content">
+//           <p>Phasellus ultrices lorem vel bibendum ultricies. In hendrerit nulla a ante dapibus pulvinar eu eget quam.</p>
+//         </div>
+//       </div>
+//       <div class="card-link-wrapper">
+//         <a href="" class="card-link">Learn More</a>
+//       </div>
+//     </li>
+//     <li class="card">
+//       <div>
+//         <h3 class="card-title">Service 3</h3>
+//         <div class="card-content">
+//           <p>Phasellus ultrices lorem vel bibendum ultricies. In hendrerit nulla a ante dapibus pulvinar eu eget quam.</p>
+//         </div>
+//       </div>
+//       <div class="card-link-wrapper">
+//         <a href="" class="card-link">Learn More</a>
+//       </div>
+//     </li>
+
+//   </ul>
+// </div>
+
+
+
+
         <div>
             <h1 className="page-header-text">
                 My Work
@@ -10,7 +75,7 @@ export default function Portfolio() {
             <section className="row">
                 <div className="col s12">
                     <div className="section">
-                        <div className="col s12 m6 l6 offset-s6">
+                        <div className="col s12 m6 l6">
                             <div className='project-card grey card hoverable'>
                                 <div className='card-title white-text'>
                                     Sheltr
@@ -58,7 +123,7 @@ export default function Portfolio() {
                                     <p>A simple OpenWeather API app developed as part of student curriculum.</p>
                                 </div>
                                 <div className="card-action">
-                                    <a href="https://github.com/BarkMulcher/Weather-Dashboard">Deployed Link</a>
+                                    <a href="https://github.com/BarkMulcher/Weather-Dashboard">GitHub Repository</a>
                                 </div>
                             </div>
                         </div>
