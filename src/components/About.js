@@ -1,8 +1,8 @@
 export default function About() {
     return (
         <div className="container">
-            <section className="container col">
-                <div className="card col s12 m9 grey">
+            <section className="col">
+                <div className="card col s12 m9 l6 grey">
                     <figure className="col s12 m3 center-align">
                         <img alt='LukeHaskell' className='responsive-img' src={require('../images/captain-luke.jpg')} />
                     </figure>

@@ -13,6 +13,7 @@ body {
   background-repeat: no-repeat;
   min-height: 100%;
   width: 100vw;
+  margin-bottom: 50px;
 }
 
 .image img {
@@ -20,12 +21,12 @@ body {
   max-height: fit-content;
 }
 
-.container {
+/* .container {
   margin: 1rem;
   text-align: center;
   max-height: max-content;
   overflow: auto;
-}
+} */
 
 .page-footer {
   position: fixed;
