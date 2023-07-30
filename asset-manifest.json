@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.0c446014.css",
-    "main.js": "/static/js/main.d237bf65.js",
+    "main.js": "/static/js/main.4a80f3e9.js",
     "static/js/496.f042a33b.chunk.js": "/static/js/496.f042a33b.chunk.js",
     "static/media/sunset.png": "/static/media/sunset.e8ce9d95278f7e08969c.png",
     "static/media/sheltr.png": "/static/media/sheltr.a37ce75cf1cf0bcaeeac.png",
+    "static/media/judgement-day.jpg": "/static/media/judgement-day.81093a2345c692408db8.jpg",
     "static/media/indexmori.jpg": "/static/media/indexmori.4b9b1060d7ae9f795a96.jpg",
     "static/media/catapi.png": "/static/media/catapi.4a2fd7819906af5c7ecf.png",
     "static/media/captain-luke.jpg": "/static/media/captain-luke.431abe7e584ee7694183.jpg",
@@ -15,11 +16,11 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.0c446014.css.map": "/static/css/main.0c446014.css.map",
-    "main.d237bf65.js.map": "/static/js/main.d237bf65.js.map",
+    "main.4a80f3e9.js.map": "/static/js/main.4a80f3e9.js.map",
     "496.f042a33b.chunk.js.map": "/static/js/496.f042a33b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c446014.css",
-    "static/js/main.d237bf65.js"
+    "static/js/main.4a80f3e9.js"
   ]
 }
