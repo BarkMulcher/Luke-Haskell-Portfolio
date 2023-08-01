@@ -7,7 +7,7 @@ export default function Portfolio() {
             <h1 className="page-header-text">
                 My Work
             </h1>
-            <div className='container'>
+            <div className='container portfolio-container'>
                 <section className="row">
                     <div className="col">
                             <div className="col s12 m6 l6">

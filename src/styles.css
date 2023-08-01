@@ -5,6 +5,7 @@
 }
 
 body {
+  background-color: #515d75;
   color: #515d75;
   background-image: url('./images/sunset.png');
   background-attachment: fixed;
@@ -12,7 +13,17 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   min-height: 100%;
-  width: 100vw;
+  /* width: 100vw; */
+  margin-bottom: 50px;
+}
+
+.portfolio-container {
+  color: #515d75;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100%;
+  /* width: 100vw; */
   margin-bottom: 50px;
 }
 
